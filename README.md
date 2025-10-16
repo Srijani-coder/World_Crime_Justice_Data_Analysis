@@ -40,15 +40,15 @@ Germany	Mexico
 
 
 Resulting plots are given below over the years 2017- 2024:
+
+
 Year 2017-2018:
-  
 ![2017-2018 Figures](https://github.com/Srijani-coder/World_Crime_Justice_Data_Analysis/blob/main/images/2017-18.png)
 
 
 
 
 Year 2019:
-
 ![2019 Figures](https://github.com/Srijani-coder/World_Crime_Justice_Data_Analysis/blob/main/images/2019.png)
 
 
