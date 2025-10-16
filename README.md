@@ -42,13 +42,13 @@ Germany	Mexico
 Resulting plots are given below over the years 2017- 2024:
 
 
-Year 2017-2018:
+                                             Year 2017-2018
 ![2017-2018 Figures](https://github.com/Srijani-coder/World_Crime_Justice_Data_Analysis/blob/main/images/2017-18.png)
 
 
 
 
-Year 2019:
+                                              Year 2019
 ![2019 Figures](https://github.com/Srijani-coder/World_Crime_Justice_Data_Analysis/blob/main/images/2019.png)
 
 
@@ -56,7 +56,7 @@ Year 2019:
 
 
 
-Year 2020:
+                                             Year 2020
 ![2020 Figures](https://github.com/Srijani-coder/World_Crime_Justice_Data_Analysis/blob/main/images/2020.png) 
 
  
@@ -65,7 +65,7 @@ Year 2020:
 
 
 
-Year 2021:
+                                             Year 2021
 ![2021 Figures](https://github.com/Srijani-coder/World_Crime_Justice_Data_Analysis/blob/main/images/2021.png) 
  
 
@@ -73,7 +73,7 @@ Year 2021:
 
 
 
-Year 2022:
+                                            Year 2022
 ![2022 Figures](https://github.com/Srijani-coder/World_Crime_Justice_Data_Analysis/blob/main/images/2022.png)
  
 
@@ -82,7 +82,7 @@ Year 2022:
 
 
 
-Year 2023:
+                                             Year 2023
  ![2023 Figures](https://github.com/Srijani-coder/World_Crime_Justice_Data_Analysis/blob/main/images/2023.png)
  
 
@@ -91,7 +91,7 @@ Year 2023:
 
 
 
-Year 2024:
+                                             Year 2024
 ![2024 Figures](https://github.com/Srijani-coder/World_Crime_Justice_Data_Analysis/blob/main/images/2024.png)
  
 
